@@ -1,2 +1,2 @@
-# TI
-Tecnólogo em Analise e Desenvolvimento de Sistemas
+# Novos Caminhos
+Novos Desafios
